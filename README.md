@@ -12,3 +12,4 @@
 - Doom-style software renderer
 - Custom compiler
 - Some sort of emulator
+- TUI Minecraft NBT editor w/ Vim Motions
